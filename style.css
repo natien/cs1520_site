@@ -1,5 +1,5 @@
 body {
-  background-color:	#ffffff
+  background-color:	#FFFF19
 }
 
 h1,h2,h3 {
@@ -16,24 +16,24 @@ div#content {
 }
 
 div.divider {
-  background-color: #bbbbbb;
+  background-color: #3333FF;
   width:            75%;
   margin:           auto;
   padding:          0.1em;
 }
 
 div#basics {
-  background-color: #bbbbbb;
+  background-color: #3333FF;
   padding:          0.5em;
 }
 
 div.itemtitle {
-  background-color: #bbbbbb;
+  background-color: #3333FF;
   padding:          0.5em;
 }
 
 div.itembody {
-  background-color: #dddddd;
+  background-color: #FF00FF;
   font-size:        smaller;
   padding:          0.5em;
 }
